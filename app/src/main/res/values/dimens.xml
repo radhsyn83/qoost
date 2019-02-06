@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal">10dp</dimen>
+    <dimen name="xxxlarge">50dp</dimen>
+    <dimen name="xnormal">14dp</dimen>
+    <dimen name="xxnormal">16dp</dimen>
+    <dimen name="ts_xnormal">18sp</dimen>
+    <dimen name="ts_normal">16sp</dimen>
+    <dimen name="ts_xsmall">12sp</dimen>
+</resources>

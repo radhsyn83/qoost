@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Qoost</string>
+    <string name="logo">Logo</string>
+    <string name="email_prompt">Email</string>
+    <string name="password_prompt">Password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">Belum punya akun? Daftar disini</string>
+    <string name="register">Daftar</string>
+    <string name="google">Google</string>
+    <string name="pemilik">Pemilik</string>
+    <string name="penghuni">Penghuni</string>
+    <string name="login_as">Sebagai :</string>
+    <string name="web_client_id">357635577105-gtvnapdendgf69khm5kgt396gj3d68v6.apps.googleusercontent.com</string>
+</resources>

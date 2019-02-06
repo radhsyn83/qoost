@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301463063569",
+    "firebase_url": "https://qoost-472e0.firebaseio.com",
+    "project_id": "qoost-472e0",
+    "storage_bucket": "qoost-472e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301463063569:android:7436492a48ae5256",
+        "android_client_info": {
+          "package_name": "com.segamedev.qoost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301463063569-ltlvg2rrg06r2c9ss1h14mc8a5vo96av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.segamedev.qoost",
+            "certificate_hash": "5875b7471ac06f0a6dd372a1471487230288a301"
+          }
+        },
+        {
+          "client_id": "301463063569-7m5hqd1uk86mrl9r4c90sg1hu98bipob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzh4541TVt0B5IrcxSau0cdW5qQtCLhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301463063569-7m5hqd1uk86mrl9r4c90sg1hu98bipob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
